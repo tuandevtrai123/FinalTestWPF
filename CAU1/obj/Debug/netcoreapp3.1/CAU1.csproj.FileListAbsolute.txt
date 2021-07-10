@@ -1,0 +1,12 @@
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/obj/Debug/netcoreapp3.1/CAU1.csproj.AssemblyReference.cache
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/obj/Debug/netcoreapp3.1/CAU1.AssemblyInfoInputs.cache
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/obj/Debug/netcoreapp3.1/CAU1.AssemblyInfo.cs
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/obj/Debug/netcoreapp3.1/CAU1.csproj.CoreCompileInputs.cache
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/bin/Debug/netcoreapp3.1/CAU1.deps.json
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/bin/Debug/netcoreapp3.1/CAU1.runtimeconfig.json
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/bin/Debug/netcoreapp3.1/CAU1.runtimeconfig.dev.json
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/bin/Debug/netcoreapp3.1/CAU1.dll
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/bin/Debug/netcoreapp3.1/CAU1.pdb
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/obj/Debug/netcoreapp3.1/CAU1.dll
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/obj/Debug/netcoreapp3.1/CAU1.pdb
+/Users/nguyengiatuan/Desktop/KTLT/ReviewFinalTestKTLT/CAU1/obj/Debug/netcoreapp3.1/CAU1.genruntimeconfig.cache
