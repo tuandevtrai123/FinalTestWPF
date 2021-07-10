@@ -10,6 +10,7 @@ namespace CAU1
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Sua file ne !!!");
             INPUT();
             Console.WriteLine("Gia tri trung binh: "+MEAN());
             Console.WriteLine("So luong cac phan tu nho hon gia tri trung binh la : "+COUNT());
