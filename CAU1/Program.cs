@@ -11,6 +11,7 @@ namespace CAU1
         static void Main(string[] args)
         {
             Console.WriteLine("Sua file ne !!!");
+            Console.WriteLine("Test xem clone la gi !!!");
             INPUT();
             Console.WriteLine("Gia tri trung binh: "+MEAN());
             Console.WriteLine("So luong cac phan tu nho hon gia tri trung binh la : "+COUNT());
